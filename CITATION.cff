@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "Open Science Audit — Anesthesia and Critical Care 2015–2026"
+message: "If you use this work, please cite it using the metadata below."
+authors:
+  - family-names: "[Good]"
+    given-names: "[Eric Good]"
+    affiliation: "[Independent Researcher]"
+version: 1.0.0
+date-released: "[fill in on submission day]"
+repository-code: "https://github.com/[your-username]/openscience-audit-acc"
+doi: "[fill in Zenodo DOI after first deposit]"
+license: MIT
+abstract: >-
+  Cross-sectional meta-research audit of data, code, and model sharing in
+  anesthesia and critical care research published 2015–2026 in 10 leading
+  journals, with a nested arm evaluating clinical prediction model and AI
+  studies against TRIPOD+AI.
+keywords:
+  - open science
+  - data sharing
+  - code sharing
+  - meta-research
+  - anesthesia
+  - critical care
+  - clinical prediction models
+  - TRIPOD+AI
