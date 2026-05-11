@@ -3,6 +3,9 @@
 ## Project purpose
 Cross-sectional meta-research audit of data, code, and model sharing in anesthesia and critical care research, 2015–2026.
 
+## Authors
+Eric Good — [Independent Research] — [ORCID if you have one]
+
 ## Scope and journal frame
 10 journals: Anesthesiology, British Journal of Anaesthesia, Anaesthesia, Anesthesia & Analgesia, Canadian Journal of Anesthesia, Intensive Care Medicine, Critical Care Medicine, Critical Care, Annals of Intensive Care, Critical Care Explorations.
 
