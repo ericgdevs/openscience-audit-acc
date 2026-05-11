@@ -7,7 +7,7 @@ authors:
     affiliation: "[Independent Researcher]"
 version: 1.0.0
 date-released: "[fill in on submission day]"
-repository-code: "https://github.com/[your-username]/openscience-audit-acc"
+repository-code: "https://github.com/ericgdevs/openscience-audit-acc"
 doi: "[fill in Zenodo DOI after first deposit]"
 license: MIT
 abstract: >-
