@@ -2,9 +2,9 @@ cff-version: 1.2.0
 title: "Open Science Audit — Anesthesia and Critical Care 2015–2026"
 message: "If you use this work, please cite it using the metadata below."
 authors:
-  - family-names: "[Good]"
-    given-names: "[Eric Good]"
-    affiliation: "[Independent Researcher]"
+  - family-names: "Good"
+    given-names: "Eric Good"
+    affiliation: "Directed Independent Research"
 version: 1.0.0
 date-released: "[fill in on submission day]"
 repository-code: "https://github.com/ericgdevs/openscience-audit-acc"
